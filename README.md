@@ -2,9 +2,10 @@
 
 ## Diagrams of what happens with recursive function
 
-!()[assets/bubbled_solution.png]
+![call stack up to the base case](/assets/recursive_calls.png)
 
 
 ## Solution bubbling up
 
-(solution bubbling)[./Solution bubbling.png]
+
+![solution bubbling](/assets/bubbled_solution.png)

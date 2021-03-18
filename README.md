@@ -2,7 +2,7 @@
 
 ## Diagrams of what happens with recursive function
 
-!()[./assets/recursive_calls.png]
+!()[assets/bubbled_solution.png]
 
 
 ## Solution bubbling up
